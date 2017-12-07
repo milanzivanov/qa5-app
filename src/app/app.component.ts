@@ -24,7 +24,7 @@ export class AppComponent implements OnInit {
 
   time =  100;
   data: Data; // if
-  title = 'East Serbia Cites';
+  title = 'East Serbia Cities';
   name = '';
   btnText = 'Add City';
   cityName = '';
